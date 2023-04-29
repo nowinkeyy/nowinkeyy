@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on labring/sealos...
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowinkeyy&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
